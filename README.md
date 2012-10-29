@@ -1,8 +1,6 @@
 Fetch-and-parse-JSON
 ====================
 
-Fetch and parse JSON
-
 This is the complete Xcode project from the __"Fetch and parse JSON in iOS6"__ at Touch-code-magazine.com
 
 http://www.touch-code-magazine.com/tutorial-fetch-and-parse-json-in-ios6/
